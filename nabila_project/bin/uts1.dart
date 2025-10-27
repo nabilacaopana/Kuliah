@@ -119,9 +119,9 @@ void main() {
 
   // Membuat list pemesanan (simulasi data pelanggan)
   var list = [
-    buatPemesanan(t1, "Hilda", 1),
-    buatPemesanan(b1, "Rina", 5),
-    buatPemesanan(p1, "Budi", 2),
+    buatPemesanan(t1, "Nabila", 1),
+    buatPemesanan(b1, "Leli", 5),
+    buatPemesanan(p1, "Jida", 2),
   ];
 
   // Menampilkan semua pemesanan
